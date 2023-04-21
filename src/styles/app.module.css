@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 60px auto;
+}
+.memory-grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 12px;
+}
+@keyframes incorrect-out {
+    0%{
+        opacity: 0;
+    }
+    24%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+
+
+.correct-message{
+    color: rgb(75, 209, 115);
+}
+.incorrect-message{
+    color: red;
+}
+.incorrect-message,.correct-message{
+    font-size: 24px;
+    font-weight: 600;
+    animation: incorrect-out 2s ease-in-out forwards;
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "name": "Toyota Supra",
+        "year": "1993",
+        "image": "supra.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Nissan Skyline GT-R R34",
+        "year": "1999",
+        "image": "gtr-34.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mazda RX-7 FD",
+        "year": "1995",
+        "image": "rx-7.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mitsubishi Lancer Evolution IX",
+        "year": "2006",
+        "image": "evo9.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Honda NSX",
+        "year": "1991",
+        "image": "nsx.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Subaru Impreza WRX STI",
+        "year": "2004",
+        "image": "wrx.png"
+    },
+    {
+        "id": 6,
+        "name": "Nissan Silvia S15",
+        "year": "1999",
+        "image": "s15.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Toyota AE86",
+        "year": "1986",
+        "image": "ae86.png"
+    }
+]
